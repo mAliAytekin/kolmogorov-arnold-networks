@@ -1,6 +1,7 @@
 ### KANs
 
 different approach for neural network
+
 our task in KAN, to find a sum of simple-variable functions that represents a multivariable function
 
 key points:
